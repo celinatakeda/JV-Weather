@@ -1,5 +1,5 @@
 # JV Weather
- Projeto utilizando a linguagem **TypeScript** com o framework **Angular** para construção de uma aplicativo para consulta da previsão do tempo.
+ Projeto utilizando a linguagem **TypeScript** com o framework **Angular** para construção de uma aplicativo que consulta a previsão do tempo.
  
   
  
