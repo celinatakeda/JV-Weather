@@ -2,6 +2,8 @@
   margin: 0;
   padding: 32px 0 0;
 
+  margin-left: 50px;
+
   .search-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -21,3 +23,12 @@
     }
   }
 }
+
+ .title {
+  text-align: justify;
+  font-size: 30px;
+  color: rgb(96, 96, 223);
+  font-family: Verdana, sans-serif;
+  }
+
+ 

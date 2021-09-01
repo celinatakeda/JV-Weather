@@ -1,7 +1,15 @@
 .container-fluid {
   height: calc(100vh - 56px);
+  background-color: rgb(132, 230, 230);
+
+  margin-bottom: 10px;
+  margin-top: 3px;
+ 
 
   > .row {
     height: 100%;
+    width: 92%;
   }
+  
 }
+
